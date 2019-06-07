@@ -15,7 +15,7 @@ def retrieval
                   "oil paintings" => 3
                  }
 
-return hash["oil paintings"]
+return shipping_manifest["oil paintings"]
 end
 
 def adding
